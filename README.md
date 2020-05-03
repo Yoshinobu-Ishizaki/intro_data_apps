@@ -1,6 +1,6 @@
 # References for data applications
 
-introductions for data applications
+An introduction for data applications.
 
 石崎 2020/05/02
 
@@ -62,4 +62,8 @@ RStudio同様、日本語の良い映像はあまり見当たらない。
 
 ## Excel (Table)
 
-- 
+- https://www.youtube.com/watch?v=heiTq5cXYAc
+
+    9分。テーブル機能の初歩
+
+
