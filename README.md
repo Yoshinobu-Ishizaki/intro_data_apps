@@ -10,7 +10,19 @@ R, Python, Git, Markdown, Visual Studio Codeといったデータ処理に便利
 
 ## R, RStudio
 
-## Python
+良い日本語の映像はあまり無い。
+
+- https://www.youtube.com/watch?v=lL0s1coNtRk&t=1027s
+
+    英語だし1.5時間ぐらいあるが、基礎から丁寧に説明してあり、これ一つ見れば概ね全体を理解できる。
+
+## Python (Jupyter)
+
+RStudio同様、日本語の良い映像はあまり見当たらない。
+
+- https://www.youtube.com/watch?v=HW29067qVWk
+
+    英語だが、最終的にどんな見栄えのものができるかを最初に紹介してあり、目標感がしっかりできて良い。但し作成が4年前でちょっと古い。
 
 ## Git, Github, Gitlab
 
@@ -41,11 +53,13 @@ R, Python, Git, Markdown, Visual Studio Codeといったデータ処理に便利
 
 - https://www.youtube.com/watch?v=e3DmHK2PDGA
 
-    15分。シリーズになっていてより詳しく学習することもできる。
+    15分。シリーズになっていてより詳しく学習することもできる。#4のマルチカーソルは必見。
 
 - https://www.youtube.com/watch?v=-OcP_FaZcQs
 
     上記の通りMarkdownについても説明されている。日本語化の説明があるのは良い。
     Markdown all in one は確かにインストールしておいた方がいい。
 
+## Excel (Table)
 
+- 
